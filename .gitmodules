@@ -1,0 +1,18 @@
+[submodule "hal-toolchain"]
+	path = hal-toolchain
+	url = git@github.com:LuckyResistor/HAL-toolchain.git
+[submodule "src/hal-common"]
+	path = src/hal-common
+	url = git@github.com:LuckyResistor/HAL-common.git
+[submodule "src/hal-feather-m0"]
+	path = src/hal-feather-m0
+	url = git@github.com:LuckyResistor/HAL-feather-m0.git
+[submodule "src/hal-lcd-hitachi"]
+	path = src/hal-lcd-hitachi
+	url = git@github.com:LuckyResistor/HAL-lcd-hitachi.git
+[submodule "src/hal-lcd-character"]
+	path = src/hal-lcd-character
+	url = git@github.com:LuckyResistor/HAL-lcd-character.git
+[submodule "src/hal-mcp230xx"]
+	path = src/hal-mcp230xx
+	url = git@github.com:LuckyResistor/HAL-mcp230xx.git
